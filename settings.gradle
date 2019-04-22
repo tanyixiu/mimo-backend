@@ -1,0 +1,3 @@
+rootProject.name = 'mimo-backend'
+include 'user-service'
+
