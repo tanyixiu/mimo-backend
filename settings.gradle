@@ -1,3 +1,4 @@
+include 'demo'
 include 'mimo-user-service'
 include 'mimo-book-service'
 include 'mimo-eureka-service'
